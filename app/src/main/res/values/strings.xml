@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MagicKarp</string>
+    <string name="magickarp">MagicKarp</string>
+    <string name="the_dev_apos_ers">The Dev\'ers</string>
+    <string name="start_test">Start Test</string>
+    <string name="star">Top 5</string>
+    <string name="history">History</string>
+    <string name="test">Start</string>
+    <string name="download">Download</string>
+    <string name="time">time</string>
+    <string name="upload">upload</string>
+    <string name="ping">ping</string>
+    <string name="type">Type</string>
+    <string name="top_5_speeds">Top 5 Speeds</string>
+    <string name="set_fish">Set Fish</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="result">Result</string>
+</resources>
